@@ -75,6 +75,8 @@ initial begin
   dividend = 8'b11011011;
   divisor = 4'b1101;
   #100;
+
+#verilog code
   $stop;
 end
 
