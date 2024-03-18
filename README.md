@@ -1,4 +1,4 @@
-# RESTORING_DIVISION
+# RESTORING_DIVISION_VERILOG_CODE
 module restoring_division (
   input wire clk,
   input wire rst,
@@ -83,3 +83,5 @@ end
 always #5 clk = ~clk;
 
 endmodule
+
+//EASY IMPLEMENTATION 
