@@ -1,4 +1,5 @@
 # RESTORING_DIVISION_VERILOG_CODE
+#module
 module restoring_division (
   input wire clk,
   input wire rst,
