@@ -83,6 +83,3 @@ end
 always #5 clk = ~clk;
 
 endmodule
-
-//EASY IMPLEMENTATION 
-//module implemented
